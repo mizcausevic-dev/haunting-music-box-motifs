@@ -1,0 +1,26 @@
+{
+  "title": "Haunting Music Box Motifs",
+  "study": "z7301",
+  "bpm": 72,
+  "source_audio": "preview/haunting-music-box-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "9887d447dd1e469ed7055ec65bcf3a4d439763d724e69949dac6804c15f9548c",
+  "source_midi": "midi/z7301-haunting-music-box-motifs-opening/z7301-haunting-music-box-motifs-opening-combined.mid",
+  "source_midi_sha256": "12220ef62f2b93febc21f2565e52e8f7fd625c5448e465035c7ddc73e37e0d7e",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "604bd2ea79d72dc475a44622883f7a50f3cedac9b04caf245aac6d42d0bdd9a5",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "7c3fc18bf1b99cab3d62a5c01e9bd9bfdecbb9d08bc171feb8d211aa70d76792",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "7c2d971c9259aa110c4a194150b01b3731915103c8fbe03cb0dd5d90f3bbbfb9",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

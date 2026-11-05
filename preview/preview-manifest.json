@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/haunting-music-box-motifs-simple-synth-preview.mp3",
+  "preview_sha256": "9887d447dd1e469ed7055ec65bcf3a4d439763d724e69949dac6804c15f9548c",
+  "source_midi_path": "midi/z7301-haunting-music-box-motifs-opening/z7301-haunting-music-box-motifs-opening-combined.mid",
+  "source_midi_sha256": "12220ef62f2b93febc21f2565e52e8f7fd625c5448e465035c7ddc73e37e0d7e",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z7301",
+    "start_seconds": 0,
+    "end_seconds": 106.667
+  },
+  "measurement": {
+    "sample_peak": 0.140768,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
