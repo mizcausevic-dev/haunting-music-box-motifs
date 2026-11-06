@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/haunting-music-box-motifs-simple-synth-preview.mp3",
-  "preview_sha256": "9887d447dd1e469ed7055ec65bcf3a4d439763d724e69949dac6804c15f9548c",
+  "preview_sha256": "a19abce182648f213091b2858631fdd6defc4ccfacbc598581bf6352ee5261cf",
   "source_midi_path": "midi/z7301-haunting-music-box-motifs-opening/z7301-haunting-music-box-motifs-opening-combined.mid",
-  "source_midi_sha256": "12220ef62f2b93febc21f2565e52e8f7fd625c5448e465035c7ddc73e37e0d7e",
+  "source_midi_sha256": "5adac26eb84552d8feb92799cc3250faa88d1d0d6994415ed05757bedfc06fec",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 106.667
   },
   "measurement": {
-    "sample_peak": 0.140768,
+    "sample_peak": 0.167646,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

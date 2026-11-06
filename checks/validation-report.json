@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:58:35.337680+00:00",
+  "run_time_utc": "2026-11-06T16:14:28.869447+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,8 +26,8 @@
     },
     {
       "path": "midi/z7301-haunting-music-box-motifs-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "6f74e7f6fa30d71a3b43d609c995e3c1f333fec3f77fb8d493ad4155c3b8b6b6",
+      "bytes": 717,
+      "sha256": "2dba3c981f4031405075547dbc999d4f6c68af377c04721d35361dc304ccebdf",
       "errors": []
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "midi/z7301-haunting-music-box-motifs-opening/z7301-haunting-music-box-motifs-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "12220ef62f2b93febc21f2565e52e8f7fd625c5448e465035c7ddc73e37e0d7e",
+      "bytes": 3314,
+      "sha256": "5adac26eb84552d8feb92799cc3250faa88d1d0d6994415ed05757bedfc06fec",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/z7302-haunting-music-box-motifs-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "990cb5e9dd7b2f4dac6b9b1c574f4bb7afec4116dfd60d2e300319897c179b94",
+      "bytes": 719,
+      "sha256": "ec9bd1c89beaad66901c9c121d710ce312135773c4547caa64486713ce7632da",
       "errors": []
     },
     {
@@ -86,8 +86,8 @@
     },
     {
       "path": "midi/z7302-haunting-music-box-motifs-variation/z7302-haunting-music-box-motifs-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "f30a6cb8d7f7c2275f1e736c98f1c13cd995dbf0221899f368a424106a9e51fd",
+      "bytes": 3316,
+      "sha256": "0dcd1a7ff4d0f160f17ab2a8f8de5e5129b30806c28f99517e0b815e9c0e2e47",
       "errors": []
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "midi/z7303-haunting-music-box-motifs-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "3507e07b8a60418e8eeac570739c51d28ad18a5ffc3ff0606465f80d16e48c96",
+      "bytes": 701,
+      "sha256": "87e36528bd70ad53b20dc4270ea88f1ef4fdb120fe46bd70c4cc98faf17c2382",
       "errors": []
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "path": "midi/z7303-haunting-music-box-motifs-contrast/z7303-haunting-music-box-motifs-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "8e18fd9575b6ac0105e1b47a3e465d3633f0a79ba585ac9d4ac115383304132b",
+      "bytes": 3298,
+      "sha256": "215ba41b032dcb1efe844640d4497afaaa85a7bfa7e6eb5effc1dacd3b420c43",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/z7304-haunting-music-box-motifs-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "816790237cbbeda7dc0c11e9de1eab2d6e6fa735aa81ba205c34cf0c1f9631ce",
+      "bytes": 699,
+      "sha256": "930c7008cc0136e7761bbc900bffc0d7b35b299e7211ca57fab16976b7587a69",
       "errors": []
     },
     {
@@ -170,8 +170,8 @@
     },
     {
       "path": "midi/z7304-haunting-music-box-motifs-return/z7304-haunting-music-box-motifs-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "29ac5b029ba87dbdad8597ab46a43fa81c1e01d5e38cdb31cb5b1cd249ee3c74",
+      "bytes": 3296,
+      "sha256": "05bcf94de413c0ec3ccee14d5d41d1a501822509b3dc7147bcf51b481c54315a",
       "errors": []
     }
   ],
