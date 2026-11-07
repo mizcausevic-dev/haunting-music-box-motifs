@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/haunting-music-box-motifs-midi.zip",
-      "bytes": 26662,
-      "sha256": "c6846cd005195d6ed27f8b06437131d79c3ae0f8a9b869b29b96a43d503d285d"
+      "bytes": 28172,
+      "sha256": "7ddecc6680cf77ee146d98ca9152a490c5d9f24d8da98db620bc438c470cbd1e"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10260,
-      "sha256": "7102e5f062828cfe9e2a260bd5fa0a09353e7e374e530ec267117834c40b64eb"
+      "bytes": 10450,
+      "sha256": "aac8e3a9d2cb7f42b869a7441029ec62c01f289aba1e960672ffa235c9868635"
     },
     {
       "path": "midi/z7301-haunting-music-box-motifs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "05bcf94de413c0ec3ccee14d5d41d1a501822509b3dc7147bcf51b481c54315a"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/haunting-music-box-motifs-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "a19abce182648f213091b2858631fdd6defc4ccfacbc598581bf6352ee5261cf"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4163,
-      "sha256": "97537318983215480970f3fae62b8a65057156c92129709d98bef8ab7f304f27"
+      "bytes": 4278,
+      "sha256": "13a14a23f49c1db8e81cc0fb1434418ddf7dd9a9c6f10a93864d8fae99b83fe6"
     },
     {
       "path": "REVISION.md",
